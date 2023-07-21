@@ -1,0 +1,31 @@
+{
+  "name": "to-do-list-capstone",
+  "version": "1.0.0",
+  "description": "To-Do List Capstone Project",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": "Kevin Hernandez",
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
